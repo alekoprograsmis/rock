@@ -1,0 +1,71 @@
+body{
+    background-image:url(https://images.hdqwalls.com/download/retro-city-sunset-ni-1336x768.jpg);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.bigcontainer{
+    width: 500px;
+    height: 500px;
+    background-color: yellow;
+    opacity: 0.6;
+    border:3px solid red;
+    border-radius: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+}
+.btn1{
+    width:100px;
+    height:100px;
+    background-color: red;
+    border:2px solid white;
+    border-radius: 50%;
+    font-size: 25px;
+    transition:1s;
+}
+.btn1:hover{
+    background-color: aqua;
+}
+.btn2{
+    width:100px;
+    height:100px;
+    background-color: red;
+    border:2px solid white;
+    border-radius: 50%;
+    font-size: 25px;
+    transition:1s;
+}
+.btn2:hover{
+    background-color: aqua;
+}
+.btn3{
+    width:100px;
+    height:100px;
+    background-color: red;
+    border:2px solid white;
+    border-radius: 50%;
+    font-size: 25px;
+    transition:1s;
+}
+.btn3:hover{
+    background-color: aqua;
+}
+.btn4{
+    width:100px;
+    height:100px;
+    background-color: red;
+    border:2px solid white;
+    border-radius: 50%;
+    font-size: 25px;
+    transition:1s;
+}
+.btn4:hover{
+    background-color: aqua;
+}
+h1{
+
+    margin-top: -300px;
+    margin-left:-350px;
+}
